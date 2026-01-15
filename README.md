@@ -20,7 +20,7 @@ Transformando ideias em produtos escaláveis
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
 
 ## 📈 GitHub Stats
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=vgsexex001&show_icons=true&theme=dark)
 
 ## 🌎 Onde me encontrar
 - 📷 Instagram: [link](https://www.instagram.com/danielsolixz/)
