@@ -46,7 +46,8 @@ Atuo principalmente em:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vgsexex001&theme=dark&hide_border=true"/>
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=vgsexex001&theme=dark&hide_border=true](https://streak-stats.demolab.com?user=vgsexex001&theme=dark&hide_border=true
+)"/>
 </p>
 
 ---
