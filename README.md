@@ -1,26 +1,65 @@
-<h1 align="center">👋 Fala, eu sou o Daniel</h1>
+<h1 align="center">👋 Eu sou o vgsexex001</h1>
 
 <p align="center">
-Desenvolvedor focado em IA, automações e SaaS<br/>
-Transformando ideias em produtos escaláveis
+🚀 Desenvolvedor focado em IA, SaaS e Automações<br/>
+🧠 Construo produtos escaláveis usando tecnologia como alavanca de negócio
 </p>
 
 ---
 
-## 🚀 O que eu faço
-- 🤖 Agentes de IA e automações
-- ⚙️ Back-end e integrações
-- 📊 SaaS e sistemas inteligentes
+## 🧩 Sobre mim
+Sou desenvolvedor e empreendedor digital, especializado em **Inteligência Artificial**, **automações complexas** e **criação de SaaS**.  
+Meu foco é transformar ideias em **produtos funcionais, escaláveis e monetizáveis**.
+
+Atuo principalmente em:
+- Produtos digitais
+- Automações de alto impacto
+- Sistemas orientados a dados
+- Integrações com IA
+
+---
+
+## 🚀 O que eu construo
+- 🤖 Agentes de IA (chatbots, análise de dados, automação de processos)
+- ⚙️ Automações inteligentes (n8n, APIs, workflows)
+- 🧠 Back-end para SaaS
+- 📊 Dashboards e sistemas de gestão
+- 💼 Produtos com foco em escala e receita
+
+---
 
 ## 🧠 Stack principal
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
-![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase"/>
+  <img src="https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n"/>
+  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai"/>
+</p>
 
-## 📈 GitHub Stats
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=vgsexex001&show_icons=true&theme=dark)
+---
 
-## 🌎 Onde me encontrar
-- 📷 Instagram: [link](https://www.instagram.com/danielsolixz/)
+## 📈 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vgsexex001&show_icons=true&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vgsexex001&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏗️ Mentalidade
+- 📌 Código como ativo
+- 📌 Produto antes de perfeição
+- 📌 Tecnologia a serviço do negócio
+- 📌 Escala, automação e eficiência
+
+---
+
+## 🌍 Contato
+- 💼 LinkedIn: (adicione aqui)
+- 📷 Instagram: (adicione aqui)
+- 🌐 Portfólio / Site: (opcional)
