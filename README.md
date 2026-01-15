@@ -60,6 +60,4 @@ Atuo principalmente em:
 ---
 
 ## 🌍 Contato
-- 💼 LinkedIn: (adicione aqui)
-- 📷 Instagram: (adicione aqui)
-- 🌐 Portfólio / Site: (opcional)
+- 📷 Instagram: [(adicione aqui)](https://www.instagram.com/danielsolixz/)
